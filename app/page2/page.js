@@ -1,7 +1,6 @@
 import Image from 'next/image';
 import alpaca from '../../public/alpaca.webp';
-
-// import styles from './page.modules.css';
+import styles from './page.modules.css';
 
 export default async function Home() {
   return (
