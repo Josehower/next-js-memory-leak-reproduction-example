@@ -20,10 +20,5 @@ export async function fireCannon() {
     foo('http://localhost:3000/page4'),
     foo('http://localhost:3000/page2'),
     foo('http://localhost:3000'),
-    foo(
-      'http://localhost:3000/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Falpaca.88e89f92.webp&w=3840&q=75',
-    ),
-    foo('http://localhost:3000'),
-    foo('http://localhost:3000'),
   ]);
 }
